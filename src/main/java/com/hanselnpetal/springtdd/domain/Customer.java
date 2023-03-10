@@ -1,0 +1,5 @@
+package com.hanselnpetal.springtdd.domain;
+
+public class Customer {
+
+}
