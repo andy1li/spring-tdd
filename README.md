@@ -6,6 +6,5 @@ Coding along with [Spring: Test-Driven Development with JUnit](https://www.linke
 - Testing **services**.
 - Testing **controllers**.
 - Testing **data repositories**.
-- Testing **controllers**.
 - **Test suites** and **continous integration tests**.
 
